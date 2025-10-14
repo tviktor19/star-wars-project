@@ -58,3 +58,9 @@ During this project, I practiced:
 - **Task & Design:** provided by bootcamp mentors  
 - **Mock API:** local `db.json`  
 - **Development:** by *Viktor Tóth* during Frontend Bootcamp
+
+---
+
+## 🛡️ License
+
+This project is open-source and available under the [MIT License](LICENSE).
