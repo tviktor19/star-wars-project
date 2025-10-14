@@ -35,7 +35,7 @@ It demonstrates the use of **Redux for global state management**, **React Router
 - **React Router DOM**  
 - **JavaScript (ES6+)**  
 - **JSON Server** for local mock API (`db.json`)  
-- **CSS 
+- CSS 
 - **Prettier**, **ESLint**
 
 ---
@@ -48,7 +48,7 @@ During this project, I practiced:
 - Creating **dynamic routes** and **breadcrumbs**
 - Handling **local API data** with JSON Server
 - Implementing **error and loading states**
-- Enforcing **code consistency** with Prettier, ESLint, and Husky
+- Enforcing **code consistency** with Prettier, ESLint
 - Structuring a scalable and maintainable front-end project
 
 ---
