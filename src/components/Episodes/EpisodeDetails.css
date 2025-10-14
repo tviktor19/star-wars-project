@@ -1,0 +1,62 @@
+.container {
+  width: 80%;
+
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.episodeDetails {
+  background-color: #f6f6f6;
+  /* height: 100vh; */
+}
+
+.home {
+  text-decoration: none;
+  color: #9f910f;
+}
+
+.title {
+  padding: 1.25rem;
+}
+
+.episode {
+  display: flex;
+  padding: 1.25rem;
+}
+
+.left img {
+  width: 281px;
+  height: 400px;
+  margin-right: 1.25rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  row-gap: 1.25rem;
+  column-gap: 3rem;
+}
+
+.rigth h2 {
+  margin-bottom: 10px;
+}
+
+.right > p {
+  margin-bottom: 10px;
+}
+
+.gray {
+  color: gray;
+  margin-right: auto;
+  text-align: justify;
+  text-decoration: none;
+}
+
+.showBtn {
+  display: inline;
+  color: #9f910f;
+  margin-left: 10px;
+  border: none;
+  cursor: pointer;
+}
