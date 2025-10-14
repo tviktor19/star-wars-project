@@ -1,6 +1,6 @@
 # star-wars-project
 A React-based single-page application built during a **frontend bootcamp** challenge. 
-The task was to recreate a given **Figma design** and build a complete React project using **Redux**, **Router**, **Breadcrumbs**, and a **local JSON database** as the data source.
+The task was to recreate a given **Figma design** and build a React project(Episodes, Characters) using **Redux**, **Router**, **Breadcrumbs**, and a **local JSON database** as the data source.
 
 ---
 
